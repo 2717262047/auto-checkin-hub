@@ -29,9 +29,9 @@
 
 ## 📦 下载
 
-- 仓库根目录的 **`自动签到助手_绿色版.zip`**（约 66 MB）解压即用；
-- 解压后得到一个 `AutoCheckinHub2` 文件夹，**双击里面的 `自动签到助手.exe`** 就能打开界面。
-- 注意：要拷**整个文件夹**，不要只拷那个 exe。
+- 绿色版压缩包在 **Releases** 页：[**v1.0.0 · AutoCheckinHub-Windows-v1.0.0.zip**（66 MB）](https://github.com/2717262047/auto-checkin-hub/releases/tag/v1.0.0)
+- SHA256 校验值：`853e1cc56856c67d4965e5f3b142dce9c683f5c38d90c377cbe054c77bab46e2`
+- 下载后解压得到一个 `AutoCheckinHub2` 文件夹，**双击里面的 `自动签到助手.exe`** 就能打开界面（不要只拷那个 exe，要拷整个文件夹）。
 
 ---
 
