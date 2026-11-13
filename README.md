@@ -1,4 +1,4 @@
-# 自动签到助手 · Windows 绿色版
+# 自动签到（heyhe/bing/wyy） · Windows 
 
 > 双击就能用的自动签到小工具：**小黑盒 / 网易云音乐 / 微软 Bing**，不用安装、不打包浏览器内核、只借用本机 Microsoft Edge。
 
